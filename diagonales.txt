@@ -1,0 +1,10 @@
+j==i // principal
+
+i>j // bajo la diagonal principal
+
+j>i // sobre la diagonal principal
+
+
+j+i = n-1 // diagonal secundaria
+
+
